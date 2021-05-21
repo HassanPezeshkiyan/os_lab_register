@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test3\test3\bin\Debug\test3.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test3\test3\bin\Debug\test3.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test3\test3\bin\Debug\test3.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test3\test3\obj\Debug\test3.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test3\test3\obj\Debug\test3.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test3\test3\obj\Debug\test3.pdb
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test3\bin\Debug\test3.exe.config
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test3\obj\Debug\test3.exe
+C:\Users\Hasan\Desktop\project\uni\992\os_lab\test_3\test3\obj\Debug\test3.pdb
